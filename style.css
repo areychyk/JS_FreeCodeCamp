@@ -1,5 +1,8 @@
 
-
+p{
+    font-size: 16px;
+    font-family: monospace;
+}
 
 .red-text{
     color: red;
