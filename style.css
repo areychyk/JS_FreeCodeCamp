@@ -6,4 +6,15 @@ p{
 
 .red-text{
     color: red;
+    font-family: Lobster;
 }
+
+.smaller-image{
+    width:100px;
+  }
+
+.thin-red-border{
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+  }
